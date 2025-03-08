@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, File, UploadFile
 from flask import Flask, request, jsonify
 from pydantic import BaseModel
 from transformers import pipeline

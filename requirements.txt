@@ -1,0 +1,10 @@
+fastapi
+flask
+uvicorn
+transformers
+torch
+Pillow
+joblib
+scikit-learn
+gunicorn
+
